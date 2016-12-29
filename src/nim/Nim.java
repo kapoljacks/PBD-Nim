@@ -15,7 +15,7 @@ public class Nim {
         Scanner input = new Scanner(System.in);
         boolean wonGame = false;
         
-        // prompt for number of players. if two, stay here. if one, jump to VsComputerClass and execute main method there 
+        // prompt for number of players. if two, stay here. if one, jump to VsComputerClass and execute onePlayerGame
         
         System.out.println("Welcome to NIM.");
         System.out.print("1 or 2 players? ");
