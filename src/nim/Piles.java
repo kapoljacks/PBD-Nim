@@ -60,6 +60,8 @@ public class Piles {
         return 0;
     }
     
+    // this method is technically obsolete, only overloaded drawPiles is used in main class
+    
     public void drawPiles() {
         
         for (int rows = 5; rows > 0; rows--) {
